@@ -1,0 +1,79 @@
+header nav{
+    font-family: Quantico;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    
+}
+
+nav{
+    display: flex;
+    gap: 50px;
+
+}
+
+header{
+    height: 70px;
+    background-color: #272C3D;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap: 500px;
+    
+}
+
+input{
+    background-color: #404864;
+    width: 241px;
+    height: 30px;
+    border: none;
+    border-radius: 10px;
+}
+
+select{
+    width: 165px;
+    height: 30px;
+    background-color: #272C3D;
+    color: white;
+    border-radius: 10px;
+}
+
+.div-img{
+    margin-left: 200px;
+    margin-top: 150px;
+}
+
+.img3{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 100px;
+}
+
+.body{
+    background-color: #05060c;
+}
+
+h1{
+    font-family: Quantico;
+    color: white;
+    text-align: center;
+}
+
+.box p{
+    color: white;
+    width: 320px;
+}
+
+.box div{
+    display: flex;
+    margin-top: 200px;
+    margin-left: 400px;
+}
+
+h3{
+    color: white;
+    text-align: center;
+    
+}
